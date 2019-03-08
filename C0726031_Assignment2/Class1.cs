@@ -8,5 +8,6 @@ namespace C0726031_Assignment2
 {
     public class Class1
     {
+
     }
 }
